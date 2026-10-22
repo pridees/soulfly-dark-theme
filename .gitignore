@@ -1,0 +1,7 @@
+# Local project for theme screenshots; never ship it with the extension.
+/screenshot-demo/
+
+# Local publishing notes and editor settings.
+/.publication/
+/.zed/
+.DS_Store
