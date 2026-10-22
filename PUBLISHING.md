@@ -31,7 +31,7 @@ Follow the official [publishing guide](https://zed.dev/docs/extensions/publishin
    ```toml
    [soulfly-dark-theme]
    submodule = "extensions/soulfly-dark-theme"
-   version = "0.1.0"
+   version = "1.0.0"
    ```
 
 5. Run `pnpm sort-extensions` in the registry repository.
