@@ -5,13 +5,11 @@ A warm dark theme for [Zed](https://zed.dev), created by
 
 ![Soulfly Dark in Zed with TypeScript syntax highlighting](assets/soulfly-dark.png)
 
+The screenshot shows the Zed IDE window with background transparency enabled.
+
 Near-black surfaces, soft neutral text, sand keywords, rose properties,
 blue functions, violet types, and green strings. Includes matching editor,
 interface, diagnostic, collaboration, and integrated terminal colors.
-
-This is the standalone Zed edition of the
-[Soulfly Omarchy theme](https://github.com/pridees/omarchy-soulfly-theme).
-Omarchy and Omazed are not required.
 
 ## Install
 
