@@ -1,12 +1,12 @@
-# Publishing Soulfly Dark
+# Publishing Soulfly Theme
 
-This extension contains only a theme; it does not need Rust or WebAssembly.
+This extension contains only themes; it does not need Rust or WebAssembly.
 
 ## Before submitting
 
 1. Install this repository as a dev extension in Zed.
-2. Select **Soulfly Dark** and check syntax highlighting, the interface,
-   diagnostics, selections, and the integrated terminal.
+2. Select **Soulfly Dark** and **Soulfly Light**, checking syntax highlighting,
+   the interface, diagnostics, selections, and the integrated terminal in each.
 3. Review the Zed screenshot in `assets/soulfly-dark.png`, embedded in the
    main README. To refresh it, use the ignored `screenshot-demo/` TypeScript
    project; its README contains local instructions.
@@ -31,7 +31,7 @@ Follow the official [publishing guide](https://zed.dev/docs/extensions/publishin
    ```toml
    [soulfly-dark-theme]
    submodule = "extensions/soulfly-dark-theme"
-   version = "1.0.0"
+   version = "1.1.0"
    ```
 
 5. Run `pnpm sort-extensions` in the registry repository.

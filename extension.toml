@@ -1,8 +1,8 @@
 id = "soulfly-dark-theme"
-name = "Soulfly Dark"
-version = "1.0.0"
+name = "Soulfly Theme"
+version = "1.1.0"
 schema_version = 1
 authors = ["Aleksandr Ovcharenko (@pridees)"]
-description = "A warm dark theme with near-black surfaces, sand keywords, rose properties, and colorful syntax."
+description = "Warm light and dark themes with ivory or near-black surfaces and readable, colorful syntax."
 repository = "https://github.com/pridees/soulfly-dark-theme"
-themes = ["themes/soulfly-dark.json"]
+themes = ["themes/soulfly-dark.json", "themes/soulfly-light.json"]
